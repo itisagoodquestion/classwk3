@@ -1,0 +1,35 @@
+.M0 {
+    margin: 0;
+}
+
+
+.CSS_model {
+    color: #f76b8a;
+}
+
+
+.Box {
+    width: 200px;
+    height: 200px;
+}
+
+
+.Box1 {
+    padding: 20px;
+    border: 10px solid #66bfbf;
+    background-color: #eaf6f6;
+}
+
+
+.Box2 {
+    border: 20px solid #481380;
+    background-color: #7f78d2;
+    margin-left: 260px;
+}
+
+
+.Box3 {
+    border: 10px solid #000000;
+    background-color: #FEFF03;
+    margin-left: 500px;
+}
